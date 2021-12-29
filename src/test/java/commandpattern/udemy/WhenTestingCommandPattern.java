@@ -20,8 +20,6 @@ public class WhenTestingCommandPattern extends BaseTest {
         this.homePage = new HomePage(driver);
     }
 
-
-
     @Test
     public void homePageTest(){
         this.homePage.goTo();

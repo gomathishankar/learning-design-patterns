@@ -1,4 +1,4 @@
-package tests.designpattern.commandpattern.serenity;
+package tests.designpattern.Commandpattern.serenity;
 
 import learning.designpattern.CommandPattern.SerenityExample.*;
 import org.junit.jupiter.api.Test;

@@ -1,5 +1,6 @@
 package tests.designpattern.StrategyPattern;
 
+
 import learning.designpattern.StrategyPattern.*;
 import tests.designpattern.BaseTest;
 import org.junit.jupiter.api.BeforeAll;

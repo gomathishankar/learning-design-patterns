@@ -1,4 +1,4 @@
-package tests.designpattern.commandpattern.udemy;
+package tests.designpattern.Commandpattern.udemy;
 
 import learning.designpattern.CommandPattern.udemy.HomePage;
 import org.assertj.core.api.Assertions;
